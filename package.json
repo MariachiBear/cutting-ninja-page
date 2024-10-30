@@ -39,7 +39,7 @@
       "cross-env": "7.0.3",
       "cypress": "10.10.0",
       "eslint": "8.25.0",
-      "eslint-plugin-cypress": "2.12.1",
+      "eslint-plugin-cypress": "4.1.0",
       "eslint-plugin-prettier": "4.2.1",
       "happy-dom": "7.5.13",
       "https-localhost": "4.7.1",
