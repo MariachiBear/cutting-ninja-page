@@ -32,7 +32,7 @@
       "@types/nprogress": "0.2.0",
       "@vitejs/plugin-vue": "3.1.2",
       "@vue/compiler-sfc": "3.2.40",
-      "@vue/eslint-config-prettier": "7.0.0",
+      "@vue/eslint-config-prettier": "10.2.0",
       "@vue/server-renderer": "3.2.40",
       "@windicss/plugin-question-mark": "0.1.1",
       "critters": "0.0.16",
