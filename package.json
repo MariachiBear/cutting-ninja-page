@@ -20,7 +20,7 @@
    },
    "description": "Cutting Ninja front-end site",
    "devDependencies": {
-      "@antfu/eslint-config": "0.27.0",
+      "@antfu/eslint-config": "3.16.0",
       "@iconify-json/carbon": "1.1.9",
       "@iconify-json/ic": "1.1.9",
       "@iconify-json/mdi": "1.1.34",
