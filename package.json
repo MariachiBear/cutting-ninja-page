@@ -37,7 +37,7 @@
       "@windicss/plugin-question-mark": "0.1.1",
       "critters": "0.0.16",
       "cross-env": "7.0.3",
-      "cypress": "10.10.0",
+      "cypress": "14.0.3",
       "eslint": "8.25.0",
       "eslint-plugin-cypress": "2.12.1",
       "eslint-plugin-prettier": "4.2.1",
